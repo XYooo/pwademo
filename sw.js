@@ -3,7 +3,7 @@ importScripts('workbox-sw.js')
 var cacheStorageKey = 'minimal-pwa-1'
 var cacheList = [
     '/',
-    'https://xyooo.github.io/pwademo/',
+    '/xyooo.github.io/pwademo/',
     'index.html',
     'main.css',
     'youhun.jpg'
